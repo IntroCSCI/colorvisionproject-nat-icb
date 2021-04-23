@@ -6,8 +6,7 @@ using namespace std;
 int CheckRGBValue(string);
 void GenerateColors(int, int (&new_red)[5], int (&new_green)[5], int (&new_blue)[5]);
 
-int main()
-{
+int main(){
 
   int red = 0;
   int green = 0;
